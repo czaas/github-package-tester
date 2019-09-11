@@ -1,8 +1,11 @@
 {
-    "name": "czaas/github-package-tester",
+    "name": "@czaas/github-package-tester",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "repository": {
+        "url": "git@github.com:czaas/github-package-tester.git"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
